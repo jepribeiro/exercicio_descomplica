@@ -1,2 +1,2 @@
-# git-flow-descomplica
+# git estudos
 faculdade 
